@@ -1,0 +1,30 @@
+# Core
+pydantic>=2.0
+pydantic-settings>=2.0
+pyyaml>=6.0
+python-dotenv>=1.0
+
+# HTTP & Data
+requests>=2.31
+aiohttp>=3.9
+
+# Graph & Analysis
+networkx>=3.2
+matplotlib>=3.8
+pandas>=2.1
+numpy>=1.26
+
+# Database
+sqlalchemy>=2.0
+
+# AI (OpenAI-совместимый API)
+openai>=1.12
+
+# Utils
+tenacity>=8.2
+diskcache>=5.6
+python-telegram-bot>=20.7
+
+# Jupyter
+jupyter>=1.0
+ipykernel>=6.28

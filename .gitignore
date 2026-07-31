@@ -1,0 +1,21 @@
+# Виртуальное окружение
+venv/
+
+# Переменные окружения (ключи!)
+.env
+
+# Кеш и данные
+data/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Графы
+*.png
