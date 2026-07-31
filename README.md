@@ -38,21 +38,6 @@ jupyter notebook notebooks/01_quick_start.ipynb
 
 Run cells in order and get AI-powered investigation reports.
 
-## Project Structure
-
-onchain_detective/
-├── onchain_detective/          # Main package
-│   ├── config.py               # Global settings
-│   ├── providers/              # Data sources (Etherscan, Moralis, Arkham)
-│   ├── core/                   # Algorithms (clustering, insiders, whales)
-│   ├── ai/                     # AI interpreter (OpenAI-compatible)
-│   └── utils/                  # Utilities (cache, rate-limiter, Telegram)
-├── notebooks/                  # Jupyter notebooks
-│   ├── 01_quick_start.ipynb    # Quick start
-│   └── 02_clustering_demo.ipynb # Clustering demo
-├── requirements.txt
-└── .env.example
-
 ## Requirements
 
 - Python 3.10+
